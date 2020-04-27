@@ -1,0 +1,42 @@
+{
+	"Group1": {
+		"VersionInfo": {
+			"Comments": "这是一个注释",
+			"FileDescription": "测试产品组件",
+			"CompanyName": "深圳市测试有限公司",
+			"LegalCopyright": "Copyright (C) 1998 - %Year% Ceshi. All Rights Reserved",
+			"LegalTrademarks": "测试",
+			"ProductName": "测试产品",
+			"InternalName": "%FileName%",
+			"OriginalFilename": "%FileName%",
+			"FileVersion": "10.20.6666.0",
+			"ProductVersion": "10.20.6666.0",
+			"SpecialBuild": "0",
+			"PrivateBuild": "0",
+			"LangAndCode" : "080404b0"
+		},
+		"FileDir":".\\test1",
+		"FileList": ["UpdateVersionTool.exe",
+		"UpdateVersionTool2.exe"]
+	},
+	"Group2": {
+		"VersionInfo": {
+			"Comments": "这是一个注释222",
+			"FileDescription": "测试产品组件",
+			"CompanyName": "深圳市测试有限公司",
+			"LegalCopyright": "Copyright (C) 1998 - %Year% Ceshi. All Rights Reserved",
+			"LegalTrademarks": "测试",
+			"ProductName": "测试产品",
+			"InternalName": "%FileName%",
+			"OriginalFilename": "%FileName%",
+			"FileVersion": "50.20.6666.0",
+			"ProductVersion": "50.20.6666.0",
+			"SpecialBuild": "0",
+			"PrivateBuild": "0",
+			"LangAndCode" : "080404b0"
+		},
+		"FileDir":"E:\\test\\UpdateVersionTool\\Debug\\test2",
+		"FileList": ["mfc110.dll",
+		"mfc110u.dll"]
+	}
+}
