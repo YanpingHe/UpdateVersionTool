@@ -1,6 +1,6 @@
 # UpdateVersionTool
 
-**捐赠：支付宝二维码（左），微信二维码（右）**
+**捐赠：微信二维码（左），支付宝二维码（右）**
 <div align="center">
 <img src="https://github.com/YanpingHe/UpdateVersionTool/blob/master/pics/weixin.jpg" alt=""/>
 <img src="https://github.com/YanpingHe/UpdateVersionTool/blob/master/pics/zhifubao.jpg" alt=""/><br>
