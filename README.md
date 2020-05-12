@@ -2,8 +2,8 @@
 
 **捐赠：支付宝二维码（左），微信二维码（右）**
 <div align="center">
-<img src="https://github.com/YanpingHe/UpdateVersionTool/blob/master/pics/weixin.png" alt=""/>
-<img src="https://github.com/YanpingHe/UpdateVersionTool/blob/master/pics/zhifubao.png" alt=""/><br>
+<img src="https://github.com/YanpingHe/UpdateVersionTool/blob/master/pics/weixin.jpg" alt=""/>
+<img src="https://github.com/YanpingHe/UpdateVersionTool/blob/master/pics/zhifubao.jpg" alt=""/><br>
 </div>
 
 
