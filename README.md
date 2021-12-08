@@ -1,13 +1,5 @@
 # UpdateVersionTool
 
-**捐赠：微信二维码（左），支付宝二维码（右）**
-<div align="center">
-<img src="https://github.com/YanpingHe/UpdateVersionTool/blob/master/pics/weixin.jpg" alt=""/>
-<img src="https://github.com/YanpingHe/UpdateVersionTool/blob/master/pics/zhifubao.jpg" alt=""/><br>
-</div>
-
-
-
 function:
 add or change win32 pe file version info
 1.可以给没有版本信息的PE文件添加版本信息
